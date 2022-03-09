@@ -1,12 +1,12 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{index.html}, nofooter
 = Wenyu Li
 
 ~~~
-{}{img_left}{000127.png}{alt text}{200px}{HEIGHTpx}
+{}{img_left}{photos/000127.png}{alt text}{200px}{HEIGHTpx}
 
-School of Aeronautics and Astronautics
+[https://www.iaa.uestc.edu.cn/ School of Aeronautics and Astronautics]
 
-University of Electronic Science and Technology of China
+[https://www.uestc.edu.cn/ University of Electronic Science and Technology of China]
 
 Email: 783564739@qq.com
 
@@ -20,10 +20,16 @@ I am wenyu.
 
 
 == Research Interests 
+My research interests include
 - SLAM
 - Object Detection and Tracking
 - Multi Sensor Fusion 
 - Systems and Control  
 - Signal Processing 
 
+== Recent Publications 
+. Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment
+. Multi Sensor Fusion Tightly Coupled SLAM and MOT in dynamic environment
+
 *I am looking for a PhD degree.*
+
