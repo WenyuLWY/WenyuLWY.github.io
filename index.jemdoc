@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-= Wenyu Li
+= Wenyu Li 
 
 ~~~
 {}{img_left}{photos/000127.png}{alt text}{200px}{HEIGHTpx}
@@ -25,12 +25,14 @@ Previously, I received B.Eng. degree in automation(Excellent Engineer Class) fro
 
 
 == Research Interests 
-My research interests include:
+I am much interested in multi-motion estimation problem, which estimates objects and ego motion when the two body both keep moving. 
+It relys on these following techniques:
+
 - Dynamic and Semantic SLAM  
-- Object Detection, tracking and prediction
+- Object Detection, Tracking and Prediction
+My research interests include. I am also interested in new sensors:
 - Multi Sensor Fusion State Estimation
-- Autonomous Driving and UAVs
-- Advanced Control Theory and Moderen Signal Processing 
+- Control,Signal Processing 
 
 == Recent Publications 
 . Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment
@@ -43,7 +45,7 @@ My research interests include:
 -- Multibody Motion Odometry(our Dynamic Registration and AB3DMOT)
 -- Tightly coupled SLAM and MOT based on factor graph
 
-== Act
+== Activities
 mountainbike
 
 *I am looking for a PhD degree in Robotics.*
