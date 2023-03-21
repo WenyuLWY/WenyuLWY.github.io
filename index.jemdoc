@@ -2,35 +2,35 @@
 = Wenyu Li 
 
 ~~~
-{}{img_left}{photos/000127.png}{alt text}{200px}{HEIGHTpx}
+{}{img_left}{photos/lwy.jpg}{alt text}{200px}{HEIGHTpx}
 
-[https://www.iaa.uestc.edu.cn/ School of Aeronautics and Astronautics]
+School of Aeronautics and Astronautics
 
-[https://www.uestc.edu.cn/ University of Electronic Science and Technology of China]
+University of Electronic Science and Technology of China
 
-Email: uestc_wenyu@qq.com
-
-Office:  UESTC, Chengdu 
+Email: wenyu.li.cn@gmail.com
 
 
 ~~~
 
 == About me 
-Now I'm a second-year student of M.Sc.Eng in Transportation in University of Electronic Science and Technology of China(UESTC), supervised by Prof. Zijun Wang. 
+Now I'm a second-year master student in University of Electronic Science and Technology of China, supervised by Prof. Zijun Wang. 
 
 I 'm also a visiting student in School of Vehicle and Mobility, Tsinghua University, supervised by Prof. Xinyu Zhang.
 
-Previously, I received B.Eng. degree in automation(Excellent Engineer Class) from Lanzhou University of Technology.
+Previously, I received B.Eng. degree in automation from Lanzhou University of Technology.
 
 
 
 == Research Interests 
+I am interested in sensor fusion and state estimation, with applications in navigation and perception of autonomous
+systems. I am also interested in new sensors, like solid state lidar, infrared camera, 4D radar and event camera.
+
 I am much interested in multi-motion estimation problem, which estimates objects and ego motion when the two body both keep moving. 
 It relys on these following techniques:
 
 - Dynamic and Semantic SLAM  
 - Object Detection, Tracking and Prediction
-My research interests include. I am also interested in new sensors:
 - Multi Sensor Fusion State Estimation
 - Control,Signal Processing 
 
@@ -48,5 +48,5 @@ My research interests include. I am also interested in new sensors:
 == Activities
 mountainbike
 
-*I am looking for a PhD degree in Robotics.*
+*I am looking for a PhD position in Robotics.*
 
