@@ -14,7 +14,7 @@ Email: wenyu.li.cn@gmail.com
 ~~~
 
 == About me 
-Now I'm a second-year master student in University of Electronic Science and Technology of China, supervised by Prof. Zijun Wang. 
+Now I'm a second-year master student in University of Electronic Science and Technology of China, supervised by Prof. Zijun Wang.
 
 I 'm also a visiting student in School of Vehicle and Mobility, Tsinghua University, supervised by Prof. Xinyu Zhang.
 
@@ -35,8 +35,12 @@ It relys on these following techniques:
 - Control,Signal Processing 
 
 == Recent Publications 
-. Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment
-. Multi Sensor Fusion Tightly Coupled SLAM and MOT
+. *Li W*, Zhang X, Wang Z, et al. Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment[J]. arXiv preprint arXiv:2204.12769, 2022. 
+. H. Y, *W. Li* , X. Zhong, et al. Monocular-Lidar Fusion Odometry for Eliminating Vertical Drift[C]. in 2023 28th International Conference on Automation and Computing (ICAC), Birmingham, United Kingdom.(Accept) 
+. * W. Li *, S. Wei, Y. Bai, Z. Song, and T. T. Toe, Pneumonia Image Classification using EfficientNet with Focal Loss, in ICITBE 2022 2nd International Conference on Information Technology and Biomedical Engineering (ICITBE 2022), Hangzhou, China.
+. Zhang X, * W. Li *, Wang Z, et al. Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment[J]. Journal of Automotive Safety and Energy. (In revision)
+. Zhang X, * W. Li *. A method of simultaneous localization, mapping and multi object tracking in dynamic environments. Patent. 
+
 
 == Projects
 - Master Thesis in UESTC: Multi Sensor Fusion SLAMMOT in Dynamic Environment, supervised by Xinyu Zhang and Zijun Wang
@@ -45,8 +49,5 @@ It relys on these following techniques:
 -- Multibody Motion Odometry(our Dynamic Registration and AB3DMOT)
 -- Tightly coupled SLAM and MOT based on factor graph
 
-== Activities
-mountainbike
 
-*I am looking for a PhD position in Robotics.*
 
