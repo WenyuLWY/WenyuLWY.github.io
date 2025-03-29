@@ -50,6 +50,7 @@ Arxiv
 **Research on Multi Sensor Fusion Simultaneous Localization Mapping and Multi Object Tracking**  
 Wenyu Li  
 Master Thesis  
+[paper](http://WenyuLWY.github.io/files/thesis.pdf)
 
 
 Other Research
