@@ -23,50 +23,70 @@ Construction SLAM
 ------
 
 **A Real World Visual SLAM Dataset for Indoor Construction Sites**
+
 Wenyu Li, Xinyu Chen, Yantao Yu*
+
 Conference
+
 [code](https://github.com/WenyuLWY/HCIC-Construction-VSLAM-Dataset)
 
 **Structure-Informed Dynamic Visual SLAM in Low Texture Indoor Construction Environments**
+
 Wenyu Li, Xinyu Chen, Yantao Yu*
+
 Journal, In review
 
 Sensor Fusion and Dynamic SLAM
 ------
 **A method of simultaneous localization, mapping and multi object tracking in dynamic environments**
+
 Xinyu Zhang, Wenyu Li, et al.
+
 Patent
 
 **Monocular-Lidar Fusion Odometry for Eliminating Vertical Drift**
 Haojie Yin , Xiangrong Zhong , Ziang Wang ,Yuting Zhao , Xingqiang Wei , Wenyu Li
+
 Conference
+
 [paper](https://ieeexplore.ieee.org/abstract/document/10275244)
 
 **Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**
 Wenyu Li , Xinyu Zhang* , Zijun Wang , Shichun Guo , Nan Qiu and Jun Li
+
 Arxiv
+
 [paper](https://arxiv.org/abs/2204.12769)
 
 **Research on Multi Sensor Fusion Simultaneous Localization Mapping and Multi Object Tracking**
 Wenyu Li
+
 Master Thesis
 
 Other Research
 ------
 **Pneumonia Image Classification using EfficientNet with Focal Loss**
 Wenyu Li, Shujin Wei, Yunling Bai, Zikang Song and Teoh Teik Toe*
+
 Summer research at Nanyang Technological University(NTU), 2022
+
 [paper](http://WenyuLWY.github.io/files/ICITBE.pdf)
 
 **Impact Analysis of Inference Time Attack of Perception Sensors on Autonomous Vehicles**
 Hanlin Chen, Simin Chen, Wenyu Li, Wei Yang, Yiheng Feng
+
 Transportation Research Board (TRB)
+
 Summer research at The University of Texas at Dallas(UT Dallas), 2023
+
 [paper](http://WenyuLWY.github.io/files/TRB.pdf)
 
 Contact
 ======
 If you wish to contact me, please send me an email at: 
+
 wenyu [dot] li [dot] cn [at] gmail [dot] com 
+
 or
+
 wlief [at] connect [dot] ust [dot] hk
