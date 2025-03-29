@@ -72,8 +72,9 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "joris-wenyu-li"
   zhihu            : "li-wen-yu-40-74"
+  bilibili         : "https://space.bilibili.com/3546774344043278"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
