@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first year PhD student in civil engineering at the Hong Kong University of Science and Technology (HKUST), starting from Spring 2025. I am working under the supervision of [Prof. Yantao Yu](https://ce.hkust.edu.hk/people/yantao-yu-yuyantao) in the field of construction robots, as a member of the Human-Centered Intelligent Construction Lab([HCIC Lab](https://yantaolab.github.io/)).
+Hi, I am a first year PhD student in civil engineering at the Hong Kong University of Science and Technology (HKUST), starting from Spring 2025. I am working under the supervision of [Prof. Yantao Yu](https://ce.hkust.edu.hk/people/yantao-yu-yuyantao) in the field of construction robots, as a member of the Human-Centered Intelligent Construction Lab ([HCIC Lab](https://yantaolab.github.io/)).
 
-I received my master degrees from University of Electronic Science and Technology of China in 2023, supervised by Prof. Zijun Wang. During my master study, I also worked as a intern student at Tsinghua University,  supervised by Prof. Xinyu Zhang. Previously, I received my bachelor degree from Lanzhou University of Technology.
+I received my master degrees from University of Electronic Science and Technology of China (UESTC) in 2023, supervised by Prof. Zijun Wang. During my master study, I also worked as a intern student at Tsinghua University (THU),  supervised by Prof. Xinyu Zhang. Previously, I received my bachelor degree from Lanzhou University of Technology (LUT).
 
 My research interests includes perception, navigation, localization, reconstruction, and SLAM on construction robots. Actually, I am interested in broad sensor fusion and state estimation problems, with applications in navigation and perception of autonomous systems. 
 <!-- Previously, I worked as a Research Assistant at HKUST. During this period, I conducted research on developing visual SLAM algorithms in dynamic construction environments. -->
