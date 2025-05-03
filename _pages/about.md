@@ -24,7 +24,7 @@ Construction SLAM
 
 **A Real World Visual SLAM Dataset for Indoor Construction Sites**  
 Wenyu Li, Xinyu Chen, Yantao Yu*  
-Conference  
+The Sixth International Conference on Civil and Building Engineering Informatics (ICCBEI 2025)  
 [code](https://github.com/WenyuLWY/HCIC-Construction-VSLAM-Dataset)
 
 
