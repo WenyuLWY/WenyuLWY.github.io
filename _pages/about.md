@@ -28,8 +28,8 @@ Conference
 [code](https://github.com/WenyuLWY/HCIC-Construction-VSLAM-Dataset)
 
 
-**Scan-to BIM in Construction Sites Using RGBD Visual SLAM on a Mobile Platform**
-Wenyu Li, Yantao Yu
+**Scan-to BIM in Construction Sites Using RGBD Visual SLAM on a Mobile Platform**  
+Wenyu Li, Yantao Yu  
 Hong Kong openBIM/openGIS AWARDS 2025, Merit Award
  
 **Structure-Informed Dynamic Visual SLAM in Low Texture Indoor Construction Environments**  
