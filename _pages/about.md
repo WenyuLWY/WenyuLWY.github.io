@@ -34,7 +34,8 @@ Hong Kong openBIM/openGIS AWARDS 2025, Merit Award
 
 **Structure-Informed Dynamic Visual SLAM in Low Texture Indoor Construction Environments**  
 Wenyu Li, Xinyu Chen, Yantao Yu*  
-Journal, In review  
+Journal of Computing in Civil Engineering. Accepted.
+[[code]](https://github.com/WenyuLWY/pdvins)
 
 Sensor Fusion and Dynamic SLAM
 ------
